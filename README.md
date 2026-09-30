@@ -1,0 +1,1 @@
+# plugins-saudi-riyal-symbol-for-woocommerce
